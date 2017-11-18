@@ -1,0 +1,123 @@
+/*Profile Picture*/
+#profile-pic {
+	/*Edit size and round corners*/
+	/*width: 30%;*/
+  width: 100%;
+	border-radius: 100%;
+
+    border-style: solid;
+    border-width: 6px;
+
+}
+
+.github-screenshots{
+  width: 80%;
+}
+
+
+/*About Me Paragraph*/
+.embedded-link {
+	color: #2C3E50;
+	font-weight: bold;
+	/*text-decoration: underline;*/
+}
+
+.embedded-link:hover {
+    background: none;
+    color: #2C3E50;
+}
+
+.embedded-link:active {
+    background: none;
+    color: #2C3E50;;
+}
+
+
+
+
+/*Portfolio*/
+.portfolio-item {
+	font-size: 150%;
+}
+
+
+
+
+/*Connect with Me Icons*/
+img.social {
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	height: 80px;
+}
+
+
+/*Modals*/
+.modal-content{
+  background-color: #f2f4f7;
+}
+
+
+
+/*Porfolio*/
+#animalFill{
+  background-color: #ffe272;
+}
+#hangmanFill{
+  background-color: #3b913a;
+}
+#rpgFill{
+  background-color: #913a87;
+}
+#triviaFill{
+  background-color: #c43131;
+}
+#trainFill{
+  background-color: #0774af;
+}
+#liriFill{
+  background-color: #2dbf82;
+}
+#bamazonFill{
+  background-color: #f26026;
+}
+#friendFill{
+  background-color: #e0e0e0;
+}
+#burgerFill{
+  background-color: #ffe272;
+}
+#burger2Fill{
+  background-color: #ed9cce;
+}
+#hackQrFill{
+  background-color: #8668c4;
+}
+#broHangman{
+  background-color: #65d1d3;
+}
+#bucketBuddyFill{
+  background-color: #006a91;
+}
+#newspaperFill{
+  /*background-color: #7c4335;*/
+  background-color: #2ba05c;
+}
+#nytReactFill{
+  background-color: #0d9bc6;
+}
+#meteorGramFill{
+  background-color: #e0e0e0; 
+}
+#swolenessPalFill{
+  background-color: #8668c4;
+}
+#myFirstPythonFill{
+  background-color: #f79a36;
+}
+#crapYapFill{
+  background-color: #2dbf82;
+}
+#javaBurgerFill{
+  background-color: #2dbf82;
+}
